@@ -1,0 +1,150 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 37.97539682539683 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 0 
+        xmax = 37.97539682539683 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.0706178714178174 
+            text = "bir kIS" 
+        intervals [2]:
+            xmin = 2.0706178714178174 
+            xmax = 7.188212979936231 
+            text = " gUnUydU baSladI" 
+        intervals [3]:
+            xmin = 7.188212979936231 
+            xmax = 7.712632217790879 
+            text = "" 
+        intervals [4]:
+            xmin = 7.712632217790879 
+            xmax = 11.98642685698119 
+            text = "" 
+        intervals [5]:
+            xmin = 11.98642685698119 
+            xmax = 16.019135644729996 
+            text = "bu hazin macerasI " 
+        intervals [6]:
+            xmin = 16.019135644729996 
+            xmax = 23.75579978644374 
+            text = "OmrUmUzUn ah" 
+        intervals [7]:
+            xmin = 23.75579978644374 
+            xmax = 37.97539682539683 
+            text = "OmrUmUzUn" 
+    item [2]:
+        class = "IntervalTier" 
+        name = ".grTruthDuration" 
+        xmin = 0 
+        xmax = 37.97539682539683 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.001 
+            text = "" 
+        intervals [2]:
+            xmin = 0.001 
+            xmax = 1.27 
+            text = "Bir" 
+        intervals [3]:
+            xmin = 1.27 
+            xmax = 2.55 
+            text = "kış" 
+        intervals [4]:
+            xmin = 2.55 
+            xmax = 5.08 
+            text = "günüydü" 
+        intervals [5]:
+            xmin = 5.08 
+            xmax = 10.13 
+            text = "başladı" 
+        intervals [6]:
+            xmin = 10.13 
+            xmax = 10.77 
+            text = "bu" 
+        intervals [7]:
+            xmin = 10.77 
+            xmax = 15.82 
+            text = "hazin" 
+        intervals [8]:
+            xmin = 15.82 
+            xmax = 20.86 
+            text = "mâcerası" 
+        intervals [9]:
+            xmin = 20.86 
+            xmax = 27.8 
+            text = "ömrümüzün" 
+        intervals [10]:
+            xmin = 27.8 
+            xmax = 30.96 
+            text = "ah" 
+        intervals [11]:
+            xmin = 30.96 
+            xmax = 37.26 
+            text = "ömrümüzün" 
+        intervals [12]:
+            xmin = 37.26 
+            xmax = 37.97539682539683 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = ".wordsDurationAligned" 
+        xmin = 0 
+        xmax = 37.97539682539683 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 20.14 
+            text = "" 
+        intervals [2]:
+            xmin = 20.14 
+            xmax = 20.92 
+            text = "Bir" 
+        intervals [3]:
+            xmin = 20.92 
+            xmax = 22.24 
+            text = "kış" 
+        intervals [4]:
+            xmin = 22.24 
+            xmax = 23.91 
+            text = "günüydü" 
+        intervals [5]:
+            xmin = 23.91 
+            xmax = 25.63 
+            text = "başladı" 
+        intervals [6]:
+            xmin = 25.63 
+            xmax = 26.37 
+            text = "bu" 
+        intervals [7]:
+            xmin = 26.37 
+            xmax = 27.27 
+            text = "hazin" 
+        intervals [8]:
+            xmin = 27.27 
+            xmax = 30.13 
+            text = "mâcerası" 
+        intervals [9]:
+            xmin = 30.13 
+            xmax = 34.7 
+            text = "ömrümüzün" 
+        intervals [10]:
+            xmin = 34.7 
+            xmax = 34.76 
+            text = "ah" 
+        intervals [11]:
+            xmin = 34.76 
+            xmax = 37.94 
+            text = "ömrümüzün" 
+        intervals [12]:
+            xmin = 37.94 
+            xmax = 37.97539682539683 
+            text = "" 
