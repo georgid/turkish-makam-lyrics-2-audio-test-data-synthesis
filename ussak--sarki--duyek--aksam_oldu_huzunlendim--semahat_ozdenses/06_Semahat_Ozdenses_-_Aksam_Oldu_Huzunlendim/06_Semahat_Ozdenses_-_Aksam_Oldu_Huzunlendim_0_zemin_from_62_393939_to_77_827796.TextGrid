@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.433854875283446 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = ".wordsDurationSynthAligned" 
+        xmin = 0 
+        xmax = 15.433854875283446 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.433854875283446 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = ".phrases" 
+        xmin = 0 
+        xmax = 15.433854875283446 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.433854875283446 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 0 
+        xmax = 15.433854875283446 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.001 
+            text = "akSam oldu" 
+        intervals [2]:
+            xmin = 0.001 
+            xmax = 0.23 
+            text = "Akşam" 
+        intervals [3]:
+            xmin = 0.23 
+            xmax = 2.4 
+            text = "oldu" 
+        intervals [4]:
+            xmin = 2.4 
+            xmax = 2.54 
+            text = "hüzünlendim" 
+        intervals [5]:
+            xmin = 2.54 
+            xmax = 4.069333534262758 
+            text = "ben" 
+        intervals [6]:
+            xmin = 4.069333534262758 
+            xmax = 4.317392470504913 
+            text = "yine" 
+        intervals [7]:
+            xmin = 4.317392470504913 
+            xmax = 4.8 
+            text = "ben" 
+        intervals [8]:
+            xmin = 4.8 
+            xmax = 5.07 
+            text = "yine" 
+        intervals [9]:
+            xmin = 5.07 
+            xmax = 7.0798669877470966 
+            text = "" 
+        intervals [10]:
+            xmin = 7.0798669877470966 
+            xmax = 7.45195539211033 
+            text = "" 
+        intervals [11]:
+            xmin = 7.45195539211033 
+            xmax = 9.6 
+            text = "ben yine" 
+        intervals [12]:
+            xmin = 9.6 
+            xmax = 10.12 
+            text = "" 
+        intervals [13]:
+            xmin = 10.12 
+            xmax = 11.4 
+            text = "" 
+        intervals [14]:
+            xmin = 11.4 
+            xmax = 11.590029464877192 
+            text = "" 
+        intervals [15]:
+            xmin = 11.590029464877192 
+            xmax = 11.6 
+            text = "" 
+        intervals [16]:
+            xmin = 11.6 
+            xmax = 14.37 
+            text = "" 
+        intervals [17]:
+            xmin = 14.37 
+            xmax = 15.06 
+            text = "" 
+        intervals [18]:
+            xmin = 15.06 
+            xmax = 15.433854875283446 
+            text = "" 

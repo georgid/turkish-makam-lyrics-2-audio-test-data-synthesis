@@ -1,0 +1,343 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 231.61358276643992 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 0 
+        xmax = 231.61358276643992 
+        intervals: size = 82 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13304069384033496 
+            text = " " 
+        intervals [2]:
+            xmin = 0.13304069384033496 
+            xmax = 2.113216821885633 
+            text = "rüzgar" 
+        intervals [3]:
+            xmin = 2.113216821885633 
+            xmax = 2.292539962684597 
+            text = "" 
+        intervals [4]:
+            xmin = 2.292539962684597 
+            xmax = 6.028115576490164 
+            text = "  söylüyor" 
+        intervals [5]:
+            xmin = 6.028115576490164 
+            xmax = 6.20930094679851 
+            text = "" 
+        intervals [6]:
+            xmin = 6.20930094679851 
+            xmax = 7.737368891019169 
+            text = "şimdi" 
+        intervals [7]:
+            xmin = 7.737368891019169 
+            xmax = 8.189745083627082 
+            text = "" 
+        intervals [8]:
+            xmin = 8.189745083627082 
+            xmax = 8.403099401854089 
+            text = "o" 
+        intervals [9]:
+            xmin = 8.403099401854089 
+            xmax = 11.65848935973175 
+            text = "yerlerde" 
+        intervals [10]:
+            xmin = 11.65848935973175 
+            xmax = 11.974099432407021 
+            text = "" 
+        intervals [11]:
+            xmin = 11.974099432407021 
+            xmax = 13.788186302985467 
+            text = "bizim" 
+        intervals [12]:
+            xmin = 13.788186302985467 
+            xmax = 14.101635438290598 
+            text = "" 
+        intervals [13]:
+            xmin = 14.101635438290598 
+            xmax = 15.94325282336837 
+            text = "eski" 
+        intervals [14]:
+            xmin = 15.94325282336837 
+            xmax = 16.45889888422143 
+            text = "" 
+        intervals [15]:
+            xmin = 16.45889888422143 
+            xmax = 23.682266044341365 
+            text = "şarkımızı" 
+        intervals [16]:
+            xmin = 23.682266044341365 
+            xmax = 24.26468438280518 
+            text = "" 
+        intervals [17]:
+            xmin = 24.26468438280518 
+            xmax = 31.16647546821006 
+            text = "şarkımızı" 
+        intervals [18]:
+            xmin = 31.16647546821006 
+            xmax = 38.63602225385224 
+            text = "" 
+        intervals [19]:
+            xmin = 38.63602225385224 
+            xmax = 40.57061075472999 
+            text = "rüzgar" 
+        intervals [20]:
+            xmin = 40.57061075472999 
+            xmax = 44.67530933607804 
+            text = "söylüyor" 
+        intervals [21]:
+            xmin = 44.67530933607804 
+            xmax = 46.445541311927244 
+            text = "şimdi" 
+        intervals [22]:
+            xmin = 46.445541311927244 
+            xmax = 46.81160201300145 
+            text = "" 
+        intervals [23]:
+            xmin = 46.81160201300145 
+            xmax = 46.998313298934605 
+            text = "o" 
+        intervals [24]:
+            xmin = 46.998313298934605 
+            xmax = 50.43783073817915 
+            text = "yerlerde" 
+        intervals [25]:
+            xmin = 50.43783073817915 
+            xmax = 50.64680437871708 
+            text = "" 
+        intervals [26]:
+            xmin = 50.64680437871708 
+            xmax = 52.58165962564277 
+            text = "bizim" 
+        intervals [27]:
+            xmin = 52.58165962564277 
+            xmax = 52.738733256100375 
+            text = "" 
+        intervals [28]:
+            xmin = 52.738733256100375 
+            xmax = 54.709240217933804 
+            text = "eski" 
+        intervals [29]:
+            xmin = 54.709240217933804 
+            xmax = 55.06551141291735 
+            text = "" 
+        intervals [30]:
+            xmin = 55.06551141291735 
+            xmax = 62.41847816609805 
+            text = "şarkımızı" 
+        intervals [31]:
+            xmin = 62.41847816609805 
+            xmax = 63.14807862958743 
+            text = "" 
+        intervals [32]:
+            xmin = 63.14807862958743 
+            xmax = 70.1096302952902 
+            text = "şarkımızı" 
+        intervals [33]:
+            xmin = 70.1096302952902 
+            xmax = 77.51342065655128 
+            text = "" 
+        intervals [34]:
+            xmin = 77.51342065655128 
+            xmax = 79.55104398073755 
+            text = "vazgeç" 
+        intervals [35]:
+            xmin = 79.55104398073755 
+            xmax = 79.71821333614558 
+            text = "" 
+        intervals [36]:
+            xmin = 79.71821333614558 
+            xmax = 81.91469557317903 
+            text = "söyleme" 
+        intervals [37]:
+            xmin = 81.91469557317903 
+            xmax = 85.6974968314339 
+            text = "artık" 
+        intervals [38]:
+            xmin = 85.6974968314339 
+            xmax = 86.09283385966387 
+            text = "" 
+        intervals [39]:
+            xmin = 86.09283385966387 
+            xmax = 89.85741971711661 
+            text = "hatırlatma" 
+        intervals [40]:
+            xmin = 89.85741971711661 
+            xmax = 93.399670837512 
+            text = "mazideki" 
+        intervals [41]:
+            xmin = 93.399670837512 
+            xmax = 94.32333564317187 
+            text = "" 
+        intervals [42]:
+            xmin = 94.32333564317187 
+            xmax = 101.36083132058586 
+            text = "aşkımı" 
+        intervals [43]:
+            xmin = 101.36083132058586 
+            xmax = 101.92330332114555 
+            text = "" 
+        intervals [44]:
+            xmin = 101.92330332114555 
+            xmax = 108.10601894741593 
+            text = "aşkımızı " 
+        intervals [45]:
+            xmin = 108.10601894741593 
+            xmax = 116.14154138830312 
+            text = "" 
+        intervals [46]:
+            xmin = 116.14154138830312 
+            xmax = 117.99479691356493 
+            text = "vazgeç" 
+        intervals [47]:
+            xmin = 117.99479691356493 
+            xmax = 120.22569566879407 
+            text = "söyleme" 
+        intervals [48]:
+            xmin = 120.22569566879407 
+            xmax = 124.03700076841149 
+            text = "artık" 
+        intervals [49]:
+            xmin = 124.03700076841149 
+            xmax = 124.55154740894663 
+            text = "" 
+        intervals [50]:
+            xmin = 124.55154740894663 
+            xmax = 128.3246326672397 
+            text = "hatırlatma" 
+        intervals [51]:
+            xmin = 128.3246326672397 
+            xmax = 131.7099296286881 
+            text = "mazideki" 
+        intervals [52]:
+            xmin = 131.7099296286881 
+            xmax = 132.79417093839376 
+            text = "" 
+        intervals [53]:
+            xmin = 132.79417093839376 
+            xmax = 139.92883420159163 
+            text = "aşkımızı" 
+        intervals [54]:
+            xmin = 139.92883420159163 
+            xmax = 140.4954826643518 
+            text = "" 
+        intervals [55]:
+            xmin = 140.4954826643518 
+            xmax = 146.56307947581783 
+            text = "aşkımızı" 
+        intervals [56]:
+            xmin = 146.56307947581783 
+            xmax = 154.9890089751531 
+            text = "" 
+        intervals [57]:
+            xmin = 154.9890089751531 
+            xmax = 156.1218168046825 
+            text = "bir" 
+        intervals [58]:
+            xmin = 156.1218168046825 
+            xmax = 157.0692018789574 
+            text = "kış" 
+        intervals [59]:
+            xmin = 157.0692018789574 
+            xmax = 158.98740392476168 
+            text = "günüydü" 
+        intervals [60]:
+            xmin = 158.98740392476168 
+            xmax = 158.98889354950563 
+            text = "" 
+        intervals [61]:
+            xmin = 158.98889354950563 
+            xmax = 162.16700794077423 
+            text = "başladı" 
+        intervals [62]:
+            xmin = 162.16700794077423 
+            xmax = 162.7271364194524 
+            text = "" 
+        intervals [63]:
+            xmin = 162.7271364194524 
+            xmax = 163.08564600590375 
+            text = "bu" 
+        intervals [64]:
+            xmin = 163.08564600590375 
+            xmax = 166.5790060514025 
+            text = "hazin" 
+        intervals [65]:
+            xmin = 166.5790060514025 
+            xmax = 167.05499693630333 
+            text = "" 
+        intervals [66]:
+            xmin = 167.05499693630333 
+            xmax = 170.5850056227813 
+            text = "macerası" 
+        intervals [67]:
+            xmin = 170.5850056227813 
+            xmax = 171.0437587848412 
+            text = "" 
+        intervals [68]:
+            xmin = 171.0437587848412 
+            xmax = 178.284712028407 
+            text = "ömrümüzün" 
+        intervals [69]:
+            xmin = 178.284712028407 
+            xmax = 178.84026029632946 
+            text = "" 
+        intervals [70]:
+            xmin = 178.84026029632946 
+            xmax = 185.7117145316818 
+            text = "ömrümüzün" 
+        intervals [71]:
+            xmin = 185.7117145316818 
+            xmax = 192.96002583566462 
+            text = "" 
+        intervals [72]:
+            xmin = 192.96002583566462 
+            xmax = 194.84541745172282 
+            text = "vazgeç" 
+        intervals [73]:
+            xmin = 194.84541745172282 
+            xmax = 195.2929298585697 
+            text = "" 
+        intervals [74]:
+            xmin = 195.2929298585697 
+            xmax = 197.24686527299522 
+            text = "söyleme" 
+        intervals [75]:
+            xmin = 197.24686527299522 
+            xmax = 200.79808473908312 
+            text = "artık" 
+        intervals [76]:
+            xmin = 200.79808473908312 
+            xmax = 205.0639319861978 
+            text = "mazideki" 
+        intervals [77]:
+            xmin = 205.0639319861978 
+            xmax = 208.4602022776838 
+            text = "mazideki" 
+        intervals [78]:
+            xmin = 208.4602022776838 
+            xmax = 209.46356370987783 
+            text = "" 
+        intervals [79]:
+            xmin = 209.46356370987783 
+            xmax = 216.86962804981636 
+            text = "aşkımızı" 
+        intervals [80]:
+            xmin = 216.86962804981636 
+            xmax = 217.55916952584576 
+            text = "" 
+        intervals [81]:
+            xmin = 217.55916952584576 
+            xmax = 224.1222292783194 
+            text = "aşkımızı" 
+        intervals [82]:
+            xmin = 224.1222292783194 
+            xmax = 231.61358276643992 
+            text = "" 
+

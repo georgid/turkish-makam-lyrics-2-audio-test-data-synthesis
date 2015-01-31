@@ -1,0 +1,132 @@
+{
+    "annotations": [
+        {
+            "name": "ARANAGME", 
+            "time": [
+                0.444492, 
+                12.760974
+            ], 
+            "time_unit": "sec"
+        }, 
+        {
+            "name": "ARANAGME", 
+            "time": [
+                12.760974, 
+                24.931985
+            ], 
+            "time_unit": "sec"
+        }, 
+        {
+            "name": "ZEMIN", 
+            "time": [
+                24.931985, 
+                33.767787
+            ], 
+            "time_unit": "sec"
+        }, 
+        {
+            "name": "NAKARAT", 
+            "time": [
+                33.767787, 
+                42.626825
+            ], 
+            "time_unit": "sec"
+        }, 
+        {
+            "name": "MEYAN", 
+            "time": [
+                42.626825, 
+                51.2621
+            ], 
+            "time_unit": "sec"
+        }, 
+        {
+            "name": "NAKARAT", 
+            "time": [
+                51.2621, 
+                59.974152
+            ], 
+            "time_unit": "sec"
+        }, 
+        {
+            "name": "ARANAGME", 
+            "time": [
+                59.974152, 
+                72.423981
+            ], 
+            "time_unit": "sec"
+        }, 
+        {
+            "name": "ARANAGME", 
+            "time": [
+                72.423981, 
+                85.229404
+            ], 
+            "time_unit": "sec"
+        }, 
+        {
+            "name": "ZEMIN_2", 
+            "time": [
+                85.229404, 
+                94.478888
+            ], 
+            "time_unit": "sec"
+        }, 
+        {
+            "name": "NAKARAT_2", 
+            "time": [
+                94.478888, 
+                103.203062
+            ], 
+            "time_unit": "sec"
+        }, 
+        {
+            "name": "MEYAN_2", 
+            "time": [
+                103.203062, 
+                112.125237
+            ], 
+            "time_unit": "sec"
+        }, 
+        {
+            "name": "NAKARAT", 
+            "time": [
+                112.125237, 
+                121.031249
+            ], 
+            "time_unit": "sec"
+        },
+        {
+            "name": "NAKARAT", 
+            "time": [
+                188.093035, 
+                196.72427
+            ], 
+            "time_unit": "sec"
+        }, 
+        {
+            "name": "MEYAN", 
+            "time": [
+                196.72427, 
+                205.145381
+            ], 
+            "time_unit": "sec"
+        }, 
+        {
+            "name": "NAKARAT", 
+            "time": [
+                205.145381, 
+                215.990997
+            ], 
+            "time_unit": "sec"
+        }, 
+        {
+            "name": "UNRELATED", 
+            "time": [
+                215.990997, 
+                219.893
+            ], 
+            "time_unit": "sec"
+        }
+    ]
+}

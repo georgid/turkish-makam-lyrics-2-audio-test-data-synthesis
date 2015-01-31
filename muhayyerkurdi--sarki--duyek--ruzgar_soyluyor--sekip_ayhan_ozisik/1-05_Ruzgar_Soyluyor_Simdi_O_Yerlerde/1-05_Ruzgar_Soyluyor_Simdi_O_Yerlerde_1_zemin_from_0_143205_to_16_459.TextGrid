@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 16.31580498866213 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "/Users/joro/Documents/Phd/UPF/turkish-makam-lyrics-2-audio-test-data-synthesis/muhayyerkurdi--sarki--duyek--ruzgar_soyluyor--sekip_ayhan_ozisik_short/1-05_Ruzgar_Soyluyor_Simdi_O_Yerlerde//1-05_Ruzgar_Soyluyor_Simdi_O_Yerlerde_1_zemin_from_0_143205_to_16_459.TextGrid" 
+        xmin = 0 
+        xmax = 16.31580498866213 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 16.31580498866213 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = ".wordsDurationSynthAligned" 
+        xmin = 0 
+        xmax = 16.31580498866213 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.001 
+            text = "" 
+        intervals [2]:
+            xmin = 0.001 
+            xmax = 1.81 
+            text = "Rüzgâr" 
+        intervals [3]:
+            xmin = 1.81 
+            xmax = 5.91 
+            text = "söylüyor" 
+        intervals [4]:
+            xmin = 5.91 
+            xmax = 7.83 
+            text = "şimdi" 
+        intervals [5]:
+            xmin = 7.83 
+            xmax = 8.36 
+            text = "o" 
+        intervals [6]:
+            xmin = 8.36 
+            xmax = 11.63 
+            text = "yerlerde" 
+        intervals [7]:
+            xmin = 11.63 
+            xmax = 13.9 
+            text = "bizim_" 
+        intervals [8]:
+            xmin = 13.9 
+            xmax = 16.26 
+            text = "eski" 
+        intervals [9]:
+            xmin = 16.26 
+            xmax = 16.31580498866213 
+            text = "" 

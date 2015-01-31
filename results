@@ -1,0 +1,17 @@
+Alignment Errors with HTK full-fledged system as used in FMA 2014 publication:
+melodia-wrong ones .notUsed are as well considered 
+
+/homedtic/georgid///turkish-makam-lyrics-2-audio-test-data-synthesis/nihavent--sarki--turkaksagi--nerelerde_kaldin--ismail_hakki_efendi/3-12_Nerelerde_Kaldin 3-12_Nerelerde_Kaldin_ ('( mean: ,1.13', ', st dev: 1.57 ALPHA: 0.97')
+/homedtic/georgid///turkish-makam-lyrics-2-audio-test-data-synthesis/muhayyerkurdi--sarki--duyek--ruzgar_soyluyor--sekip_ayhan_ozisik/1-05_Ruzgar_Soyluyor_Simdi_O_Yerlerde 1-05_Ruzgar_Soyluyor_Simdi_O_Yerlerde_ ('( mean: ,4.29', ', st dev: 5.96 ALPHA: 0.97')
+/homedtic/georgid///turkish-makam-lyrics-2-audio-test-data-synthesis/nihavent--sarki--aksak--bakmiyor_cesm-i--haci_arif_bey/04_Hamiyet_Yuceses_-_Bakmiyor_Cesm-i_Siyah_Feryade 04_Hamiyet_Yuceses_-_Bakmiyor_Cesm-i_Siyah_Feryade_ mean: ,1.8', ', st dev: 2.38
+√/Users/joro/Documents/Phd/UPF/turkish-makam-lyrics-2-audio-test-data-synthesis/huzzam--sarki--curcuna--kusade_taliim--sevki_bey/06_Kusade_Talihim  1.65', ', st dev: 2.39
+/Users/joro/Documents/Phd/UPF/turkish-makam-lyrics-2-audio-test-data-synthesis/ussak--sarki--duyek--aksam_oldu_huzunlendim--semahat_ozdenses/06_Semahat_Ozdenses_-_Aksam_Oldu_Huzunlendim 1.16', ', st dev: 1.72
+
+/Users/joro/Documents/Phd/UPF/turkish-makam-lyrics-2-audio-test-data-synthesis/nihavent--sarki--aksak--gel_guzelim--faiz_kapanci/18_Munir_Nurettin_Selcuk_-_Gel_Guzelim_Camlicaya 0.66', ', st dev: 0.99
+/Users/joro/Documents/Phd/UPF/turkish-makam-lyrics-2-audio-test-data-synthesis/nihavent--sarki--aksak--koklasam_saclarini--artaki_candan/20_Koklasam_Saclarini  1.2', ', st dev: 1.88
+/Users/joro/Documents/Phd/UPF/turkish-makam-lyrics-2-audio-test-data-synthesis/nihavent--sarki--aksak--koklasam_saclarini--artaki_candan/2-15_Nihavend_Aksak_Sarki 1.29', ', st dev: 1.89
+/Users/joro/Documents/Phd/UPF/turkish-makam-lyrics-2-audio-test-data-synthesis/nihavent--sarki--curcuna--kimseye_etmem--kemani_sarkis_efendi/03_Bekir_Unluataer_-_Kimseye_Etmem_Sikayet_Aglarim_Ben_Halime  2.85', ', st dev: 3.84
+/Users/joro/Documents/Phd/UPF/turkish-makam-lyrics-2-audio-test-data-synthesis/segah--sarki--curcuna--olmaz_ilac--haci_arif_bey/21_Recep_Birgit_-_Olmaz_Ilac_Sine-i_Sad_Pareme/21_Recep_Birgit_-_Olmaz_Ilac_Sine-i_Sad_Pareme_  1.06', ', st dev: 1.6  
+
+TOTAL: 
+1.65

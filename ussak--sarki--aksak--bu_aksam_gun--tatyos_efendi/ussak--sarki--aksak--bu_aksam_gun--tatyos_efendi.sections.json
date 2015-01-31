@@ -1,0 +1,69 @@
+{
+	"makam": "ussak",
+	"form": "sarki",
+	"usul": "aksak",
+	"karar": "A4",
+	"composer": "tatyos_efendi",
+	"sections": [
+		{
+			"name": "ARANAGME",
+			"startNote": 1,
+			"endNote": 38
+		},
+		{
+			"name": "ARANAGME",
+			"startNote": 39,
+			"endNote": 76
+		},
+		{
+			"name": "ZEMIN",
+			"startNote": 77,
+			"endNote": 106
+		},
+		{
+			"name": "NAKARAT",
+			"startNote": 107,
+			"endNote": 136
+		},
+		{
+			"name": "MEYAN",
+			"startNote": 137,
+			"endNote": 169
+		},
+		{
+			"name": "NAKARAT",
+			"startNote": 170,
+			"endNote": 192
+		},
+		{
+			"name": "ARANAGME",
+			"startNote": 193,
+			"endNote": 230
+		},
+		{
+			"name": "ARANAGME",
+			"startNote": 231,
+			"endNote": 268
+		},
+		{
+			"name": "ZEMIN_2",
+			"startNote": 269,
+			"endNote": 298
+		},
+		{
+			"name": "NAKARAT_2",
+			"startNote": 299,
+			"endNote": 328
+		},
+		{
+			"name": "MEYAN_2",
+			"startNote": 329,
+			"endNote": 361
+		},
+		{
+			"name": "NAKARAT",
+			"startNote": 362,
+			"endNote": 384
+		}
+	]
+}
