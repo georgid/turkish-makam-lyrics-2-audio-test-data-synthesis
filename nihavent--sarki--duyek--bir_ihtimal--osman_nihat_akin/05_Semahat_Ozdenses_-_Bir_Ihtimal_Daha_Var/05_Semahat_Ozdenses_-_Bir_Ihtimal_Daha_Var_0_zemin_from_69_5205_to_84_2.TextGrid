@@ -4,81 +4,31 @@ Object class = "TextGrid"
 xmin = 0 
 xmax = 14.6 
 tiers? <exists> 
-size = 2 
+size = 1 
 item []: 
     item [1]:
-        class = "IntervalTier" 
-        name = ".phrases" 
-        xmin = 0 
-        xmax = 14.6 
-        intervals: size = 1 
-        intervals [1]:
-            xmin = 0 
-            xmax = 14.6 
-            text = "" 
-    item [2]:
         class = "IntervalTier" 
         name = "phrases" 
         xmin = 0 
         xmax = 14.6 
-        intervals: size = 15 
+        intervals: size = 5 
         intervals [1]:
             xmin = 0 
-            xmax = 0.001 
+            xmax = 5.050593929740075 
             text = "Bir ihtimal daha var" 
         intervals [2]:
-            xmin = 0.001 
-            xmax = 0.49 
-            text = "Bir" 
-        intervals [3]:
-            xmin = 0.49 
-            xmax = 3.05 
-            text = "ihtimal" 
-        intervals [4]:
-            xmin = 3.05 
-            xmax = 4.08 
-            text = "daha" 
-        intervals [5]:
-            xmin = 4.08 
-            xmax = 5.050593929740075 
-            text = "var" 
-        intervals [6]:
             xmin = 5.050593929740075 
-            xmax = 5.62 
-            text = "o" 
-        intervals [7]:
-            xmin = 5.62 
-            xmax = 6.14 
-            text = "da" 
-        intervals [8]:
-            xmin = 6.14 
-            xmax = 6.66 
-            text = "ölmek" 
-        intervals [9]:
-            xmin = 6.66 
             xmax = 8.099256000457192 
-            text = "mi" 
-        intervals [10]:
+            text = "" 
+        intervals [3]:
             xmin = 8.099256000457192 
-            xmax = 8.77 
-            text = "dersin" 
-        intervals [11]:
-            xmin = 8.77 
-            xmax = 9.29 
-            text = "" 
-        intervals [12]:
-            xmin = 9.29 
             xmax = 10.893083315285491 
-            text = "" 
-        intervals [13]:
+            text = "o da ölmek" 
+        intervals [4]:
             xmin = 10.893083315285491 
             xmax = 13.120248599567969 
             text = "mi dersin" 
-        intervals [14]:
+        intervals [5]:
             xmin = 13.120248599567969 
-            xmax = 13.44 
-            text = "" 
-        intervals [15]:
-            xmin = 13.44 
-            xmax = 13.478348751253606 
+            xmax = 14.6
             text = "" 
