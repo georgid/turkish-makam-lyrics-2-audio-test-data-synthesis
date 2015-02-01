@@ -4,29 +4,9 @@ Object class = "TextGrid"
 xmin = 0 
 xmax = 21.357551020408163 
 tiers? <exists> 
-size = 4 
+size = 2 
 item []: 
     item [1]:
-        class = "IntervalTier" 
-        name = ".wordsDurationSynthAligned" 
-        xmin = 0 
-        xmax = 21.357551020408163 
-        intervals: size = 1 
-        intervals [1]:
-            xmin = 0 
-            xmax = 21.357551020408163 
-            text = "" 
-    item [2]:
-        class = "IntervalTier" 
-        name = ".phrases" 
-        xmin = 0 
-        xmax = 21.357551020408163 
-        intervals: size = 1 
-        intervals [1]:
-            xmin = 0 
-            xmax = 21.357551020408163 
-            text = "" 
-    item [3]:
         class = "IntervalTier" 
         name = "phrases" 
         xmin = 0 
@@ -56,97 +36,41 @@ item []:
             xmin = 21.356551020408162 
             xmax = 21.357551020408163 
             text = "" 
-    item [4]:
+    item [2]:
         class = "IntervalTier" 
         name = ".grTruthDuration" 
         xmin = 0 
         xmax = 21.357551020408163 
-        intervals: size = 22 
+        intervals: size = 8 
         intervals [1]:
             xmin = 0 
-            xmax = 0.001 
+            xmax = 1 
             text = "" 
         intervals [2]:
-            xmin = 0.001 
-            xmax = 0.14 
+            xmin = 1 
+            xmax = 4.41 
             text = "Kimseye" 
         intervals [3]:
-            xmin = 0.14 
-            xmax = 1 
+            xmin = 4.41 
+            xmax = 8.81 
             text = "etmem" 
         intervals [4]:
-            xmin = 1 
-            xmax = 2.42 
+            xmin = 8.81 
+            xmax = 14.56 
             text = "şikâyet" 
         intervals [5]:
-            xmin = 2.42 
-            xmax = 3.41 
-            text = "ağlarım" 
+            xmin = 14.56 
+            xmax = 16.98 
+            text = "ağlarım ben " 
         intervals [6]:
-            xmin = 3.41 
-            xmax = 4.41 
+            xmin = 16.98 
+            xmax = 17.99 
             text = "ben" 
         intervals [7]:
-            xmin = 4.41 
-            xmax = 6.85 
+            xmin = 17.99 
+            xmax = 21.356551020408162 
             text = "halime" 
         intervals [8]:
-            xmin = 6.85 
-            xmax = 7.81 
-            text = "" 
-        intervals [9]:
-            xmin = 7.81 
-            xmax = 8.81 
-            text = "ben" 
-        intervals [10]:
-            xmin = 8.81 
-            xmax = 13.3 
-            text = "halime" 
-        intervals [11]:
-            xmin = 13.3 
-            xmax = 13.56 
-            text = "" 
-        intervals [12]:
-            xmin = 13.56 
-            xmax = 14.56 
-            text = "" 
-        intervals [13]:
-            xmin = 14.56 
-            xmax = 15.98 
-            text = "ağlarım ben " 
-        intervals [14]:
-            xmin = 15.98 
-            xmax = 16.21 
-            text = "" 
-        intervals [15]:
-            xmin = 16.21 
-            xmax = 16.98 
-            text = "" 
-        intervals [16]:
-            xmin = 16.98 
-            xmax = 16.99 
-            text = "ben" 
-        intervals [17]:
-            xmin = 16.99 
-            xmax = 17.44 
-            text = "" 
-        intervals [18]:
-            xmin = 17.44 
-            xmax = 17.99 
-            text = "" 
-        intervals [19]:
-            xmin = 17.99 
-            xmax = 20.4 
-            text = "halime" 
-        intervals [20]:
-            xmin = 20.4 
-            xmax = 21.11 
-            text = "" 
-        intervals [21]:
-            xmin = 21.11 
-            xmax = 21.356551020408162 
-            text = "" 
-        intervals [22]:
             xmin = 21.356551020408162 
             xmax = 21.357551020408163 
             text = "" 
