@@ -4,11 +4,11 @@ Object class = "TextGrid"
 xmin = 0 
 xmax = 14.299002267573696 
 tiers? <exists> 
-size = 4 
+size = 2 
 item []: 
     item [1]:
         class = "IntervalTier" 
-        name = ".wordsDurationSynthAligned" 
+        name = "/Users/joro/Documents/Phd/UPF/turkish-makam-lyrics-2-audio-test-data/nihavent--sarki--duyek--bir_ihtimal--osman_nihat_akin/05_Semahat_Ozdenses_-_Bir_Ihtimal_Daha_Var/05_Semahat_Ozdenses_-_Bir_Ihtimal_Daha_Var_1_zemin2_from_84_2_to_98_499.TextGrid" 
         xmin = 0 
         xmax = 14.299002267573696 
         intervals: size = 1 
@@ -21,76 +21,16 @@ item []:
         name = ".phrases" 
         xmin = 0 
         xmax = 14.299002267573696 
-        intervals: size = 1 
+        intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 14.299002267573696 
-            text = "" 
-    item [3]:
-        class = "IntervalTier" 
-        name = "/Users/joro/Documents/Phd/UPF/turkish-makam-lyrics-2-audio-test-data/nihavent--sarki--duyek--bir_ihtimal--osman_nihat_akin/05_Semahat_Ozdenses_-_Bir_Ihtimal_Daha_Var/05_Semahat_Ozdenses_-_Bir_Ihtimal_Daha_Var_1_zemin2_from_84_2_to_98_499.TextGrid" 
-        xmin = 0 
-        xmax = 14.299002267573696 
-        intervals: size = 1 
-        intervals [1]:
-            xmin = 0 
-            xmax = 14.299002267573696 
-            text = "" 
-    item [4]:
-        class = "IntervalTier" 
-        name = ".phrases" 
-        xmin = 0 
-        xmax = 14.299002267573696 
-        intervals: size = 13 
-        intervals [1]:
-            xmin = 0 
-            xmax = 0.001 
+            xmax = 3.315475464450782 
             text = "Söyle canım" 
         intervals [2]:
-            xmin = 0.001 
-            xmax = 2.45 
-            text = "Söyle" 
-        intervals [3]:
-            xmin = 2.45 
-            xmax = 3.315475464450782 
-            text = "canım" 
-        intervals [4]:
             xmin = 3.315475464450782 
-            xmax = 5.86 
-            text = "ne" 
-        intervals [5]:
-            xmin = 5.86 
             xmax = 6.517902534285293 
-            text = "dersin" 
-        intervals [6]:
+            text = "ne dersin" 
+        intervals [3]:
             xmin = 6.517902534285293 
-            xmax = 6.69 
-            text = "" 
-        intervals [7]:
-            xmin = 6.69 
-            xmax = 7.02 
-            text = "" 
-        intervals [8]:
-            xmin = 7.02 
-            xmax = 8.37 
-            text = "" 
-        intervals [9]:
-            xmin = 8.37 
-            xmax = 10.07 
-            text = "" 
-        intervals [10]:
-            xmin = 10.07 
-            xmax = 10.86 
-            text = "" 
-        intervals [11]:
-            xmin = 10.86 
-            xmax = 13.25 
-            text = "" 
-        intervals [12]:
-            xmin = 13.25 
-            xmax = 13.56 
-            text = "" 
-        intervals [13]:
-            xmin = 13.56 
             xmax = 14.299002267573696 
             text = "" 

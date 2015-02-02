@@ -4,103 +4,35 @@ Object class = "TextGrid"
 xmin = 0 
 xmax = 14.85766439909297 
 tiers? <exists> 
-size = 3 
+size = 1 
 item []: 
     item [1]:
-        class = "IntervalTier" 
-        name = ".wordsDurationSynthAligned" 
-        xmin = 0 
-        xmax = 14.85766439909297 
-        intervals: size = 1 
-        intervals [1]:
-            xmin = 0 
-            xmax = 14.85766439909297 
-            text = "" 
-    item [2]:
-        class = "IntervalTier" 
-        name = ".phrases" 
-        xmin = 0 
-        xmax = 14.85766439909297 
-        intervals: size = 1 
-        intervals [1]:
-            xmin = 0 
-            xmax = 14.85766439909297 
-            text = "" 
-    item [3]:
         class = "IntervalTier" 
         name = "phrases" 
         xmin = 0 
         xmax = 14.85766439909297 
-        intervals: size = 18 
+        intervals: size = 6 
         intervals [1]:
             xmin = 0 
-            xmax = 0.001 
+            xmax = 3.852286758780368 
             text = "akSam oldu" 
         intervals [2]:
-            xmin = 0.001 
-            xmax = 0.51 
-            text = "Akşam" 
-        intervals [3]:
-            xmin = 0.51 
-            xmax = 2.3 
-            text = "oldu" 
-        intervals [4]:
-            xmin = 2.3 
-            xmax = 2.51 
-            text = "hüzünlendim" 
-        intervals [5]:
-            xmin = 2.51 
-            xmax = 3.852286758780368 
-            text = "ben" 
-        intervals [6]:
             xmin = 3.852286758780368 
             xmax = 4.123648324847601 
-            text = "yine" 
-        intervals [7]:
-            xmin = 4.123648324847601 
-            xmax = 4.6 
-            text = "ben" 
-        intervals [8]:
-            xmin = 4.6 
-            xmax = 4.81 
-            text = "yine" 
-        intervals [9]:
-            xmin = 4.81 
-            xmax = 6.945808611946813 
             text = "" 
-        intervals [10]:
+        intervals [3]:
+            xmin = 4.123648324847601 
+            xmax = 6.945808611946813 
+            text = "hUzUnlendim" 
+        intervals [4]:
             xmin = 6.945808611946813 
             xmax = 7.249733565942113 
             text = "" 
-        intervals [11]:
+        intervals [5]:
             xmin = 7.249733565942113 
-            xmax = 9.24 
-            text = "ben yine" 
-        intervals [12]:
-            xmin = 9.24 
-            xmax = 9.97 
-            text = "" 
-        intervals [13]:
-            xmin = 9.97 
             xmax = 10.690598223674614 
-            text = "" 
-        intervals [14]:
+            text = "ben yine" 
+        intervals [6]:
             xmin = 10.690598223674614 
-            xmax = 10.97 
-            text = "" 
-        intervals [15]:
-            xmin = 10.97 
-            xmax = 11.81 
-            text = "" 
-        intervals [16]:
-            xmin = 11.81 
-            xmax = 13.84 
-            text = "" 
-        intervals [17]:
-            xmin = 13.84 
-            xmax = 14.71 
-            text = "" 
-        intervals [18]:
-            xmin = 14.71 
             xmax = 14.85766439909297 
             text = "" 
