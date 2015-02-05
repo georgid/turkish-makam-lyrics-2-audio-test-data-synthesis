@@ -4,27 +4,61 @@ Object class = "TextGrid"
 xmin = 0 
 xmax = 11.317369614512472 
 tiers? <exists> 
-size = 1 
+size = 2 
 item []: 
     item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 11.317369614512472 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6245416230906133 
+            text = "" 
+        intervals [2]:
+            xmin = 0.6245416230906133 
+            xmax = 2.8351434205286115 
+            text = "bakmIyor " 
+        intervals [3]:
+            xmin = 2.8351434205286115 
+            xmax = 4.042280327512532 
+            text = "CeSmi " 
+        intervals [4]:
+            xmin = 4.042280327512532 
+            xmax = 5.712427155687612 
+            text = "siyah " 
+        intervals [5]:
+            xmin = 5.712427155687612 
+            xmax = 9.507463760303267 
+            text = "feryade" 
+        intervals [6]:
+            xmin = 9.507463760303267 
+            xmax = 11.317369614512472 
+            text = "" 
+    item [2]:
         class = "IntervalTier" 
         name = "phrases" 
         xmin = 0 
         xmax = 11.317369614512472 
-        intervals: size = 4 
+        intervals: size = 5 
         intervals [1]:
             xmin = 0 
-            xmax = 4.042280327512532 
-            text = "bakmIyor CeSmi " 
+            xmax = 0.6245416230906133 
+            text = "" 
         intervals [2]:
-            xmin = 4.042280327512532 
-            xmax = 5.712427155687612 
-            text = "siyah " 
+            xmin = 0.6245416230906133 
+            xmax = 2.8351434205286115 
+            text = "bakmIyor " 
         intervals [3]:
+            xmin = 2.8351434205286115 
+            xmax = 5.712427155687612 
+            text = "CeSmi siyah " 
+        intervals [4]:
             xmin = 5.712427155687612 
             xmax = 9.507463760303267 
             text = "feryade" 
-        intervals [4]:
+        intervals [5]:
             xmin = 9.507463760303267 
             xmax = 11.317369614512472 
             text = "" 

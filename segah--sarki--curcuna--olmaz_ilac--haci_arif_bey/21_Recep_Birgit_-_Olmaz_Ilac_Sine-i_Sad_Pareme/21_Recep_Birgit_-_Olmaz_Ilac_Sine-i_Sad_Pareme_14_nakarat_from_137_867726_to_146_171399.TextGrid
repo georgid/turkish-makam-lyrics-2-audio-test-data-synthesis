@@ -14,13 +14,13 @@ item []:
         intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 1.4089654703956094 
-            text = "gOzle " 
+            xmax = 2.6795004276866656 
+            text = "gOzleri en " 
         intervals [2]:
-            xmin = 1.4089654703956094 
+            xmin = 2.6795004276866656 
             xmax = 5.573712588955647 
-            text = "ri en son girecek" 
+            text = "son girecek" 
         intervals [3]:
             xmin = 5.573712588955647 
             xmax = 8.473696145124716 
-            text = " kanIma" 
+            text = "kanIma" 
