@@ -1,0 +1,184 @@
+{
+	"links": [
+		{
+			"name": "aranagme",
+			"weight": 0.4355400697,
+			"relative_tempo": 1.425641026,
+			"time": [
+				[0.9287981859],
+				[9.984580499]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "aranagme",
+			"weight": 0.2648083624,
+			"relative_tempo": 1.644970414,
+			"time": [
+				[10.21678005],
+				[18.06512472]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "zemin",
+			"weight": 0.2847222222,
+			"relative_tempo": 1.459183673,
+			"time": [
+				[20.15492063],
+				[29.25714286]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "zemin",
+			"weight": 0.2881944444,
+			"relative_tempo": 1.422885572,
+			"time": [
+				[29.58222222],
+				[38.91664399]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "nakarat",
+			"weight": 0.3020833333,
+			"relative_tempo": 1.384615385,
+			"time": [
+				[41.05287982],
+				[50.10866213]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "nakarat2",
+			"weight": 0.3509749304,
+			"relative_tempo": 1.411764706,
+			"time": [
+				[50.38730159],
+				[61.44]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "meyan",
+			"weight": 0.3506944444,
+			"relative_tempo": 1.215246637,
+			"time": [
+				[60.55764172],
+				[70.9137415]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "nakarat",
+			"weight": 0.3298611111,
+			"relative_tempo": 1.37755102,
+			"time": [
+				[83.17387755],
+				[92.27609977]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "nakarat2",
+			"weight": 0.348189415,
+			"relative_tempo": 1.297297297,
+			"time": [
+				[92.55473923],
+				[104.5826757]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "aranagme",
+			"weight": 0.3728222997,
+			"relative_tempo": 1.591954023,
+			"time": [
+				[102.0749206],
+				[110.1554649]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "aranagme",
+			"weight": 0.2822299652,
+			"relative_tempo": 1.619883041,
+			"time": [
+				[110.1554649],
+				[118.0966893]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "zemin",
+			"weight": 0.3298611111,
+			"relative_tempo": 1.466666667,
+			"time": [
+				[120.0007256],
+				[129.0565079]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "zemin",
+			"weight": 0.2951388889,
+			"relative_tempo": 1.388349515,
+			"time": [
+				[129.0565079],
+				[138.6231293]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "nakarat",
+			"weight": 0.3298611111,
+			"relative_tempo": 1.205357143,
+			"time": [
+				[139.4126077],
+				[149.8151474]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "nakarat2",
+			"weight": 0.3509749304,
+			"relative_tempo": 1.367346939,
+			"time": [
+				[149.5365079],
+				[160.9142857]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "meyan",
+			"weight": 0.3159722222,
+			"relative_tempo": 1.396907216,
+			"time": [
+				[161.6108844],
+				[170.6202268]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "nakarat",
+			"weight": 0.3298611111,
+			"relative_tempo": 1.273584906,
+			"time": [
+				[181.4407256],
+				[191.2859864]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "zemin",
+			"weight": 0.25,
+			"relative_tempo": 1.446700508,
+			"time": [
+				[191.4253061],
+				[200.5739683]
+			],
+			"time_unit": "sec"
+		}
+	]
+}

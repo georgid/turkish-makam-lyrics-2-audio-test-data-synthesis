@@ -1,0 +1,114 @@
+{
+	"annotations": [
+		{
+			"name": "aranagme",
+			"weight": 0.5260869565,
+			"relative_tempo": 1.031818182,
+			"time": [
+				[0.6501587302],
+				[10.86693878]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "aranagme",
+			"weight": 0.5260869565,
+			"relative_tempo": 1.013392857,
+			"time": [
+				[11.19201814],
+				[21.59455782]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "zemin",
+			"weight": 0.4391304348,
+			"relative_tempo": 1.013392857,
+			"time": [
+				[21.91963719],
+				[32.32217687]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "zemin",
+			"weight": 0.4565217391,
+			"relative_tempo": 1.013392857,
+			"time": [
+				[32.74013605],
+				[43.14267574]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "nakarat",
+			"weight": 0.4130434783,
+			"relative_tempo": 0.9956331878,
+			"time": [
+				[49.08698413],
+				[59.72172336]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "aranagme",
+			"weight": 0.3130434783,
+			"relative_tempo": 0.974248927,
+			"time": [
+				[59.81460317],
+				[70.63510204]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "aranagme",
+			"weight": 0.5608695652,
+			"relative_tempo": 1.008888889,
+			"time": [
+				[70.86730159],
+				[81.31628118]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "zemin",
+			"weight": 0.4434782609,
+			"relative_tempo": 0.9743589744,
+			"time": [
+				[81.59492063],
+				[92.46185941]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "zemin",
+			"weight": 0.3782608696,
+			"relative_tempo": 1.004405286,
+			"time": [
+				[92.69405896],
+				[103.2359184]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "nakarat",
+			"weight": 0.4304347826,
+			"relative_tempo": 0.9620253165,
+			"time": [
+				[109.2266667],
+				[120.2329252]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "nakarat",
+			"weight": 0.4217391304,
+			"relative_tempo": 0.8201438849,
+			"time": [
+				[120.2793651],
+				[133.1896599]
+			],
+			"time_unit": "sec"
+		}
+	]
+}

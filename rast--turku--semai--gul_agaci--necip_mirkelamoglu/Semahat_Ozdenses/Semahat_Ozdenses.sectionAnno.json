@@ -1,0 +1,85 @@
+{
+	"annotations": [
+		{
+			"name": "aranagme",
+			"weight": 0.5127118644,
+			"relative_tempo": 1.182741117,
+			"time": [
+				[0.789478458],
+				[9.93814059]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "aranagme",
+			"weight": 0.4491525424,
+			"relative_tempo": 1.170854271,
+			"time": [
+				[10.26321995],
+				[19.5047619]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "aranagme",
+			"weight": 0.4734607219,
+			"relative_tempo": 1.237467018,
+			"time": [
+				[19.64408163],
+				[37.24480726]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "zemin",
+			"weight": 0.3417721519,
+			"relative_tempo": 1.212435233,
+			"time": [
+				[37.4770068],
+				[46.4399093]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "zemin2",
+			"weight": 0.388185654,
+			"relative_tempo": 1.140776699,
+			"time": [
+				[46.71854875],
+				[56.28517007]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "zemin2",
+			"weight": 0.358649789,
+			"relative_tempo": 1.181818182,
+			"time": [
+				[55.86721088],
+				[65.06231293]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "nakarat",
+			"weight": 0.4659574468,
+			"relative_tempo": 1.255376344,
+			"time": [
+				[65.06231293],
+				[84.14911565]
+			],
+			"time_unit": "sec"
+		},
+
+		{
+			"name": "nakarat2",
+			"weight": 0.3940677966,
+			"relative_tempo": 1.244680851,
+			"time": [
+				[84.47419501],
+				[102.90489796]
+			],
+			"time_unit": "sec"
+		}
+	]
+}
