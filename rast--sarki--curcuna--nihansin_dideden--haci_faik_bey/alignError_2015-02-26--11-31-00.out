@@ -1,0 +1,16 @@
+
+0.97
+ 0.88 0.52 1.48 1.94 /Users/joro/Documents/Phd/UPF//turkish-makam-lyrics-2-audio-test-data-synthesis/rast--sarki--curcuna--nihansin_dideden--haci_faik_bey/Nurten_Demirkol Nurten_Demirkol_
+ 0.83 0.63 2.17 3.41 /Users/joro/Documents/Phd/UPF//turkish-makam-lyrics-2-audio-test-data-synthesis/nihavent--sarki--curcuna--kimseye_etmem--kemani_sarkis_efendi/03_Bekir_Unluataer_-_Kimseye_Etmem_Sikayet_Aglarim_Ben_Halime 03_Bekir_Unluataer_-_Kimseye_Etmem_Sikayet_Aglarim_Ben_Halime_
+ 0.83 0.78 0.94 1.68 /Users/joro/Documents/Phd/UPF//turkish-makam-lyrics-2-audio-test-data-synthesis/nihavent--sarki--aksak--koklasam_saclarini--artaki_candan/2-15_Nihavend_Aksak_Sarki 2-15_Nihavend_Aksak_Sarki_
+ 0.80 0.79 1.09 1.6 /Users/joro/Documents/Phd/UPF//turkish-makam-lyrics-2-audio-test-data-synthesis/nihavent--sarki--curcuna--kimseye_etmem--kemani_sarkis_efendi/Melihat_Gulses Melihat_Gulses_
+ 0.80 0.70 0.64 1.1 /Users/joro/Documents/Phd/UPF//turkish-makam-lyrics-2-audio-test-data-synthesis/ussak--sarki--aksak--bu_aksam_gun--tatyos_efendi/Sakin--Gec--Kalma Sakin--Gec--Kalma_
+ 0.79 0.73 0.52 0.81 /Users/joro/Documents/Phd/UPF//turkish-makam-lyrics-2-audio-test-data-synthesis/rast--turku--semai--gul_agaci--necip_mirkelamoglu/Semahat_Ozdenses Semahat_Ozdenses_
+ 0.79 0.77 0.41 0.7 /Users/joro/Documents/Phd/UPF//turkish-makam-lyrics-2-audio-test-data-synthesis/nihavent--sarki--aksak--gel_guzelim--faiz_kapanci/18_Munir_Nurettin_Selcuk_-_Gel_Guzelim_Camlicaya 18_Munir_Nurettin_Selcuk_-_Gel_Guzelim_Camlicaya_
+ 0.78 0.56 1.83 2.4 /Users/joro/Documents/Phd/UPF//turkish-makam-lyrics-2-audio-test-data-synthesis/nihavent--sarki--aksak--bakmiyor_cesm-i--haci_arif_bey/04_Hamiyet_Yuceses_-_Bakmiyor_Cesm-i_Siyah_Feryade 04_Hamiyet_Yuceses_-_Bakmiyor_Cesm-i_Siyah_Feryade_
+ 0.76 0.68 0.91 1.35 /Users/joro/Documents/Phd/UPF//turkish-makam-lyrics-2-audio-test-data-synthesis/segah--sarki--curcuna--olmaz_ilac--haci_arif_bey/21_Recep_Birgit_-_Olmaz_Ilac_Sine-i_Sad_Pareme 21_Recep_Birgit_-_Olmaz_Ilac_Sine-i_Sad_Pareme_
+ 0.75 0.80 0.42 0.7 /Users/joro/Documents/Phd/UPF//turkish-makam-lyrics-2-audio-test-data-synthesis/rast--sarki--sofyan--gelmez_oldu--dramali_hasan/Eda_Simsek Eda_Simsek_
+ 0.71 0.74 0.78 1.35 /Users/joro/Documents/Phd/UPF//turkish-makam-lyrics-2-audio-test-data-synthesis/ussak--sarki--duyek--aksam_oldu_huzunlendim--semahat_ozdenses/06_Semahat_Ozdenses_-_Aksam_Oldu_Huzunlendim 06_Semahat_Ozdenses_-_Aksam_Oldu_Huzunlendim_
+ 0.58 0.58 1.49 2.72 /Users/joro/Documents/Phd/UPF//turkish-makam-lyrics-2-audio-test-data-synthesis/nihavent--sarki--duyek--bir_ihtimal--osman_nihat_akin/05_Semahat_Ozdenses_-_Bir_Ihtimal_Daha_Var 05_Semahat_Ozdenses_-_Bir_Ihtimal_Daha_Var_tatal scoreDev accuracy 0.77 
+ total accuracy: 0.67 
+ total mean: 1.03 
