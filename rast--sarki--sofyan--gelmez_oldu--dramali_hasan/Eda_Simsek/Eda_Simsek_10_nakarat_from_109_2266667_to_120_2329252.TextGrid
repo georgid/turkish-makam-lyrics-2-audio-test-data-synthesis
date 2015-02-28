@@ -2,26 +2,16 @@ File type = "ooTextFile"
 Object class = "TextGrid"
 
 xmin = 0 
-xmax = 10.634739229024943 
+xmax = 11.00625850340136 
 tiers? <exists> 
-size = 2 
+size = 1 
 item []: 
     item [1]:
         class = "IntervalTier" 
-        name = "/Users/joro/Documents/Phd/UPF/ISTANBUL/guelcin/Eda_Simsek_5_nakarat_from_49_08698413_to_59_72172336.TextGrid" 
-        xmin = 0 
-        xmax = 10.634739229024943 
-        intervals: size = 1 
-        intervals [1]:
-            xmin = 0 
-            xmax = 10.634739229024943 
-            text = "" 
-    item [2]:
-        class = "IntervalTier" 
         name = "phrases" 
         xmin = 0 
-        xmax = 10.634739229024943 
-        intervals: size = 6 
+        xmax = 11.00625850340136 
+        intervals: size = 7 
         intervals [1]:
             xmin = 0 
             xmax = 2.3785079314172037 
@@ -44,5 +34,9 @@ item []:
             text = "Nerde verdiğin sözler" 
         intervals [6]:
             xmin = 8.162951770351643 
-            xmax = 10.634739229024943 
+            xmax = 10.645606134347577 
             text = "Niçin neden gelmedin" 
+        intervals [7]:
+            xmin = 10.645606134347577 
+            xmax = 11.00625850340136 
+            text = "" 
